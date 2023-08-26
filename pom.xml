@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- Setting webfx-parent to inherit same dependencyManagement as submodules (for Maven site & JavaDoc)  -->
+    <parent>
+        <groupId>dev.webfx</groupId>
+        <artifactId>webfx-parent</artifactId>
+        <version>0.1.0-SNAPSHOT</version>
+        <relativePath/>
+    </parent>
+
+    <artifactId>webfx-demos-aggregate</artifactId>
+    <version>0.1.0-SNAPSHOT</version>
+
+    <packaging>pom</packaging>
+
+    <repositories>
+
+        <!-- For WebFX snapshots download (required for now for the CLI Maven workspace) -->
+        <repository>
+            <id>webfx-snapshots</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+            <releases>
+                <enabled>false</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+
+    </repositories>
+
+    <modules>
+
+        <!-- WebFX demos -->
+        <module>webfx-demo-colorfulcircles</module>
+        <module>webfx-demo-demofx</module>
+        <module>webfx-demo-enzoclocks</module>
+        <module>webfx-demo-files</module>
+        <module>webfx-demo-flexbox</module>
+        <module>webfx-demo-fooddice</module>
+        <module>webfx-demo-fx2048</module>
+        <module>webfx-demo-jarkanoid</module>
+        <module>webfx-demo-ledclock</module>
+        <module>webfx-demo-ledpacking</module>
+        <module>webfx-demo-mandelbrot</module>
+        <module>webfx-demo-memorygame</module>
+        <module>webfx-demo-medusaclock</module>
+        <module>webfx-demo-moderngauge</module>
+        <module>webfx-demo-mostlyfluid</module>
+        <module>webfx-demo-particles</module>
+        <module>webfx-demo-raytracer</module>
+        <module>webfx-demo-spacefx</module>
+        <module>webfx-demo-tallycounter</module>
+        <module>webfx-demo-tetris</module>
+
+        <module>webfx-pacman</module>
+        <module>RailTheWay</module>
+        <module>Retoohs</module>
+        <module>Snake</module>
+    </modules>
+
+</project>

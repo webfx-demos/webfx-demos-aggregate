@@ -1,0 +1,72 @@
+[submodule "webfx-demo-colorfulcircles"]
+	path = webfx-demo-colorfulcircles
+	url = https://github.com/webfx-demos/webfx-demo-colorfulcircles.git
+[submodule "webfx-demo-demofx"]
+	path = webfx-demo-demofx
+	url = https://github.com/webfx-demos/webfx-demo-demofx.git
+[submodule "webfx-demo-enzoclocks"]
+	path = webfx-demo-enzoclocks
+	url = https://github.com/webfx-demos/webfx-demo-enzoclocks.git
+[submodule "webfx-demo-files"]
+	path = webfx-demo-files
+	url = https://github.com/webfx-demos/webfx-demo-files.git
+[submodule "webfx-demo-flexbox"]
+	path = webfx-demo-flexbox
+	url = https://github.com/webfx-demos/webfx-demo-flexbox.git
+[submodule "webfx-demo-fooddice"]
+	path = webfx-demo-fooddice
+	url = https://github.com/webfx-demos/webfx-demo-fooddice.git
+[submodule "webfx-demo-fx2048"]
+	path = webfx-demo-fx2048
+	url = https://github.com/webfx-demos/webfx-demo-fx2048.git
+[submodule "webfx-demo-jarkanoid"]
+	path = webfx-demo-jarkanoid
+	url = https://github.com/webfx-demos/webfx-demo-jarkanoid.git
+[submodule "webfx-demo-ledclock"]
+	path = webfx-demo-ledclock
+	url = https://github.com/webfx-demos/webfx-demo-ledclock.git
+[submodule "webfx-demo-ledpacking"]
+	path = webfx-demo-ledpacking
+	url = https://github.com/webfx-demos/webfx-demo-ledpacking.git
+[submodule "webfx-demo-mandelbrot"]
+	path = webfx-demo-mandelbrot
+	url = https://github.com/webfx-demos/webfx-demo-mandelbrot.git
+[submodule "webfx-demo-medusaclock"]
+	path = webfx-demo-medusaclock
+	url = https://github.com/webfx-demos/webfx-demo-medusaclock.git
+[submodule "webfx-demo-moderngauge"]
+	path = webfx-demo-moderngauge
+	url = https://github.com/webfx-demos/webfx-demo-moderngauge.git
+[submodule "webfx-demo-mostlyfluid"]
+	path = webfx-demo-mostlyfluid
+	url = https://github.com/webfx-demos/webfx-demo-mostlyfluid.git
+[submodule "webfx-demo-particles"]
+	path = webfx-demo-particles
+	url = https://github.com/webfx-demos/webfx-demo-particles.git
+[submodule "webfx-demo-raytracer"]
+	path = webfx-demo-raytracer
+	url = https://github.com/webfx-demos/webfx-demo-raytracer.git
+[submodule "webfx-demo-spacefx"]
+	path = webfx-demo-spacefx
+	url = https://github.com/webfx-demos/webfx-demo-spacefx.git
+[submodule "webfx-demo-tallycounter"]
+	path = webfx-demo-tallycounter
+	url = https://github.com/webfx-demos/webfx-demo-tallycounter.git
+[submodule "webfx-demo-tetris"]
+	path = webfx-demo-tetris
+	url = https://github.com/webfx-demos/webfx-demo-tetris.git
+[submodule "webfx-pacman"]
+	path = webfx-pacman
+	url = https://github.com/webfx-demos/webfx-pacman.git
+[submodule "RailTheWay"]
+	path = RailTheWay
+	url = https://github.com/webfx-demos/RailTheWay.git
+[submodule "Retoohs"]
+	path = Retoohs
+	url = https://github.com/webfx-demos/Retoohs.git
+[submodule "Snake"]
+	path = Snake
+	url = https://github.com/webfx-demos/Snake.git
+[submodule "webfx-demo-memorygame"]
+	path = webfx-demo-memorygame
+	url = https://github.com/webfx-demos/webfx-demo-memorygame.git
