@@ -1,3 +1,7 @@
+Additional commands to execute for contributors.
+
+Isolating this parent module from the changes made in the submodules:
+
 ```sh
 git config submodule.webfx-demo-colorfulcircles.ignore all  
 git config submodule.webfx-demo-demofx.ignore all  
