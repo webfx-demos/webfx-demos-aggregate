@@ -23,11 +23,13 @@ cd webfx-demo-spacefx&& git checkout main && cd ..
 cd webfx-demo-tallycounter&& git checkout main && cd ..
 
 # Those repositories are actually forks from original games, and the WebFX port is in the "webfx" branch
+cd webfx-demo-chess && git checkout webfx && cd ..  
 cd webfx-demo-fx2048 && git checkout webfx && cd ..  
 cd webfx-demo-fooddice && git checkout webfx && cd ..  
 cd webfx-demo-jarkanoid && git checkout webfx && cd ..  
 cd webfx-demo-memorygame && git checkout webfx && cd ..  
 cd webfx-demo-tetris && git checkout webfx && cd ..  
+cd LogicSimulator && git checkout webfx && cd ..  
 cd RailTheWay && git checkout webfx && cd ..  
 cd Retoohs && git checkout webfx && cd ..  
 cd Snake && git checkout webfx && cd ..  

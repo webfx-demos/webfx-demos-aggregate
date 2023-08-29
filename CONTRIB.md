@@ -3,6 +3,7 @@ Additional commands to execute for contributors.
 Isolating this parent module from the changes made in the submodules:
 
 ```sh
+git config submodule.webfx-demo-chess.ignore all  
 git config submodule.webfx-demo-colorfulcircles.ignore all  
 git config submodule.webfx-demo-demofx.ignore all  
 git config submodule.webfx-demo-enzoclocks.ignore all  
@@ -24,6 +25,7 @@ git config submodule.webfx-demo-spacefx.ignore all
 git config submodule.webfx-demo-tallycounter.ignore all  
 git config submodule.webfx-demo-tetris.ignore all  
 git config submodule.webfx-pacman.ignore all  
+git config submodule.LogicSimulator.ignore all
 git config submodule.RailTheWay.ignore all  
 git config submodule.Retoohs.ignore all  
 git config submodule.Snake.ignore all  

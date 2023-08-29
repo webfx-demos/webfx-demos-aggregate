@@ -36,6 +36,7 @@
     <modules>
 
         <!-- WebFX demos -->
+        <module>webfx-demo-chess</module>
         <module>webfx-demo-colorfulcircles</module>
         <module>webfx-demo-demofx</module>
         <module>webfx-demo-enzoclocks</module>
@@ -58,6 +59,7 @@
         <module>webfx-demo-tetris</module>
 
         <module>webfx-pacman</module>
+        <module>LogicSimulator</module>
         <module>RailTheWay</module>
         <module>Retoohs</module>
         <module>Snake</module>

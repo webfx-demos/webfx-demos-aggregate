@@ -70,3 +70,9 @@
 [submodule "webfx-demo-memorygame"]
 	path = webfx-demo-memorygame
 	url = https://github.com/webfx-demos/webfx-demo-memorygame.git
+[submodule "webfx-demo-chess"]
+	path = webfx-demo-chess
+	url = https://github.com/webfx-demos/webfx-demo-chess.git
+[submodule "LogicSimulator"]
+	path = LogicSimulator
+	url = https://github.com/webfx-demos/LogicSimulator.git
