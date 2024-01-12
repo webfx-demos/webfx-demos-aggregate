@@ -20,7 +20,7 @@ cd webfx-demo-mostlyfluid&& git checkout main && cd ..
 cd webfx-demo-particles&& git checkout main && cd ..  
 cd webfx-demo-raytracer&& git checkout main && cd ..  
 cd webfx-demo-spacefx&& git checkout main && cd ..  
-cd webfx-demo-tallycounter&& git checkout main && cd ..
+cd webfx-demo-tallycounter&& git checkout main && cd ..cd webfx-demo-webgl&& git checkout main && cd ..
 
 # Those repositories are actually forks from original games, and the WebFX port is in the "webfx" branch
 cd webfx-demo-chess && git checkout webfx && cd ..  
