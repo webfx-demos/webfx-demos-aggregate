@@ -76,6 +76,6 @@
 [submodule "LogicSimulator"]
 	path = LogicSimulator
 	url = https://github.com/webfx-demos/LogicSimulator.git
-[submodule "webfx-demo-webgl"]
-	path = webfx-demo-webgl
-	url = https://github.com/webfx-demos/webfx-demo-webgl.git
+[submodule "webfx-demo-cube"]
+	path = webfx-demo-cube
+	url = https://github.com/webfx-demos/webfx-demo-cube.git

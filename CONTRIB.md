@@ -5,6 +5,7 @@ Isolating this parent module from the changes made in the submodules:
 ```sh
 git config submodule.webfx-demo-chess.ignore all  
 git config submodule.webfx-demo-colorfulcircles.ignore all  
+git config submodule.webfx-demo-cube.ignore all  
 git config submodule.webfx-demo-demofx.ignore all  
 git config submodule.webfx-demo-enzoclocks.ignore all  
 git config submodule.webfx-demo-files.ignore all  

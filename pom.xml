@@ -38,6 +38,7 @@
         <!-- WebFX demos -->
         <module>webfx-demo-chess</module>
         <module>webfx-demo-colorfulcircles</module>
+        <module>webfx-demo-cube</module>
         <module>webfx-demo-demofx</module>
         <module>webfx-demo-enzoclocks</module>
         <module>webfx-demo-files</module>

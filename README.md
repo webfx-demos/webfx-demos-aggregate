@@ -7,6 +7,7 @@ Once cloned, you need to check out the branches of the different submodules by e
 ```sh
 # Our own WebFX demos use directly the "main" branch
 cd webfx-demo-colorfulcircles&& git checkout main && cd ..  
+cd webfx-demo-cube&& git checkout main && cd ..  
 cd webfx-demo-demofx&& git checkout main && cd ..  
 cd webfx-demo-enzoclocks&& git checkout main && cd ..  
 cd webfx-demo-files&& git checkout main && cd ..  
