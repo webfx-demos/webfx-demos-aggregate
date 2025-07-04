@@ -6,22 +6,22 @@ Once cloned, you need to check out the branches of the different submodules by e
 
 ```sh
 # Our own WebFX demos use directly the "main" branch
-cd webfx-demo-colorfulcircles&& git checkout main && cd ..  
-cd webfx-demo-cube&& git checkout main && cd ..  
-cd webfx-demo-demofx&& git checkout main && cd ..  
-cd webfx-demo-enzoclocks&& git checkout main && cd ..  
-cd webfx-demo-files&& git checkout main && cd ..  
-cd webfx-demo-flexbox&& git checkout main && cd ..  
-cd webfx-demo-ledclock&& git checkout main && cd ..  
-cd webfx-demo-ledpacking&& git checkout main && cd ..  
-cd webfx-demo-mandelbrot&& git checkout main && cd ..  
-cd webfx-demo-medusaclock&& git checkout main && cd ..  
-cd webfx-demo-moderngauge&& git checkout main && cd ..  
-cd webfx-demo-mostlyfluid&& git checkout main && cd ..  
-cd webfx-demo-particles&& git checkout main && cd ..  
-cd webfx-demo-raytracer&& git checkout main && cd ..  
-cd webfx-demo-spacefx&& git checkout main && cd ..  
-cd webfx-demo-tallycounter&& git checkout main && cd ..cd webfx-demo-webgl&& git checkout main && cd ..
+cd webfx-demo-colorfulcircles && git checkout main && cd ..  
+cd webfx-demo-cube && git checkout main && cd ..  
+cd webfx-demo-demofx && git checkout main && cd ..  
+cd webfx-demo-enzoclocks && git checkout main && cd ..  
+cd webfx-demo-files && git checkout main && cd ..  
+cd webfx-demo-flexbox && git checkout main && cd ..  
+cd webfx-demo-ledclock && git checkout main && cd ..  
+cd webfx-demo-ledpacking && git checkout main && cd ..  
+cd webfx-demo-mandelbrot && git checkout main && cd ..  
+cd webfx-demo-medusaclock && git checkout main && cd ..  
+cd webfx-demo-moderngauge && git checkout main && cd ..  
+cd webfx-demo-mostlyfluid && git checkout main && cd ..  
+cd webfx-demo-particles && git checkout main && cd ..  
+cd webfx-demo-raytracer && git checkout main && cd ..  
+cd webfx-demo-tallycounter && git checkout main && cd ..
+cd webfx-demo-webgl && git checkout main && cd ..
 
 # Those repositories are actually forks from original games, and the WebFX port is in the "webfx" branch
 cd webfx-demo-chess && git checkout webfx && cd ..  
@@ -29,6 +29,7 @@ cd webfx-demo-fx2048 && git checkout webfx && cd ..
 cd webfx-demo-fooddice && git checkout webfx && cd ..  
 cd webfx-demo-jarkanoid && git checkout webfx && cd ..  
 cd webfx-demo-memorygame && git checkout webfx && cd ..  
+cd webfx-demo-spacefx && git checkout webfx-new && cd ..  
 cd webfx-demo-tetris && git checkout webfx && cd ..  
 cd LogicSimulator && git checkout webfx && cd ..  
 cd RailTheWay && git checkout webfx && cd ..  
